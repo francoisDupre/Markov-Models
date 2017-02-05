@@ -1,5 +1,5 @@
 // TP2 Modale
-// Cressot Loic - Dupré Loic
+// Dupré François - Cressot Loic
 clear
 
 // simule une loi de géométrique de paramètre mu
